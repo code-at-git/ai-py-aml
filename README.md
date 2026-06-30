@@ -1,6 +1,11 @@
-# ai-py-aml
-# AI & Python for AML  
-*A practical reference for Product Owners & Lead Analysts*
+# 🛡️ AI & Python for Fraud Prevention & Anti-Money Laundering (AML)
+### *A Practical Engineering Reference for Product Owners & Lead Analysts*
+
+This repository serves as a strategic and practical reference blueprint for product teams and lead analysts leveraging Python and AI to build next-generation financial crime defense systems. It bridges the gap between complex data science architecture and operational domain knowledge required for production-grade risk systems.
+
+## 🎯 Core Focus Areas
+* **Fraud Detection & Prevention**: Real-time behavioral anomaly tracking, transaction risk scoring, and identity theft prevention pipelines.
+* **Anti-Money Laundering (AML)**: Transaction monitoring systems (TMS), structured entity resolution, structuring pattern alerts, and automated SAR (Suspicious Activity Report) generation frameworks.
 
 ---
 
